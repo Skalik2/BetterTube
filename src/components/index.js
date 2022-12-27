@@ -10,3 +10,4 @@ export { default as VideoCard } from "./VideoCard";
 export { default as ChannelCard } from "./ChannelCard";
 export { default as Logo } from "./Logo";
 export { default as Logo2 } from "./Logo2";
+export { default as LogoPocket } from "./LogoPocket";
